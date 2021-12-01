@@ -20,7 +20,7 @@ wish to create.
    This is as simple as hash symbol (#) and its issue number.
    
    Example:
-   Typing `#1` will result in a link to Issue #1.
+   Typing `#1` will result in a link to Issue [#1](https://github.com/JECA-Nashville/stem-club/issues/1).
 
 ## Code Standards
 
